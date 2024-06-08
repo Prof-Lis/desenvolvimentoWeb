@@ -24,3 +24,9 @@ footer{
 .texto-inglês{
     font-style: italic;
 }
+
+#nome{
+    font-weight: bold;
+    font-style: italic;
+    color:orange;
+}
